@@ -21,15 +21,19 @@ a {
 	margin-left: auto;
 }
 section {
-	display: flex;
 	color: white;
 	padding-left: 30px;
 	background-color: #282D35;
 	border: 5px;
 	padding-top: 30px;
 	box-sizing: border-box;
+	border-radius: 5px;
 	
 }
+div {
+	display: flex;
+}
+
 li {
 	padding-bottom: 20px;
 }
