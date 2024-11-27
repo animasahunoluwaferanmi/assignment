@@ -1,0 +1,50 @@
+body {
+	background-color: black;
+	box-sizing: border-box;
+	border: 0;
+	
+}
+h1{
+	color: #61DAFB;
+	font-size: 22.25px;
+	weight: 700;
+	font: inter;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 30px;
+	background-color: black;
+	box-sizing: border-box; 
+}
+a {
+	display: flex;
+	justify-content: right;
+	margin-left: auto;
+}
+section {
+	display: flex;
+	color: white;
+	padding-left: 30px;
+	background-color: #282D35;
+	border: 5px;
+	padding-top: 30px;
+	box-sizing: border-box;
+	
+}
+li {
+	padding-bottom: 20px;
+}
+::marker{
+	color: #61DAFB;
+} 
+.back {
+	display: flex;
+	justify-content: center;
+	margin-left: auto;
+}
+h2{
+	font-size: 50px;
+	display: flex;
+	justify-content: left;
+	margin-right: auto;
+
+}
